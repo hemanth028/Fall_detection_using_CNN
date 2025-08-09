@@ -73,7 +73,7 @@ This project successfully simulates a CNN-based fall detection system in Verilog
 ## 📬 Contributors
  1.Naveen Kumar B-(naveenau2023@gmail.com)
  2.Sabarish Mohan JS
- 3.Hemanth S
+ 3.Hemanth S(hemanth.s28925@gmail.com)
 
 ---
 
